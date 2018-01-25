@@ -1,0 +1,4 @@
+1	Jeff Smith	Biology	9	3	3.0
+2	Justin	Computer Science	12	3	4.0
+3	Brittany Chapman	Business Management	24	6	4.0
+Total student records: 3 Average GPA: 3.6666666666666665
